@@ -1,0 +1,1 @@
+The data comprises instances and results for the flow shop batch scheduling problem in a prefabricated concrete manufacturing system with two-dimensional bin packing constraints (FSBSP\_PCMS\_2DBP). This study has been resubmitted to the International Journal of Production Research, with the manuscript ID TPRS-2024-IJPR-2761.
